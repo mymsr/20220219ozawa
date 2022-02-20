@@ -1,0 +1,50 @@
+.wrapper {
+  background-color: antiquewhite;
+  max-width: 1500px;
+  height: auto;
+}
+.header{
+  color: mediumblue;
+}
+.company_name{
+  float: left;
+  font-size: 30px;
+  margin: 30px 0 0 30px;
+}
+.flex_list{
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  
+}
+.flex_list li{
+  display: inline-block;
+  margin-right: 30px;
+  margin-top: 30px;
+  
+}
+.clear{
+  clear: both;
+}
+.float_img{
+  width: 750px;
+  height: auto;
+  float: right;
+}
+img{
+  width: 100%;
+}
+.main{
+  margin-top: 100px;
+}
+.box{  
+  padding-top: 300px;
+}
+.text{
+  font-size: 60px;
+}
+.box_item{
+  background-color: darkblue;
+  height: 200px;
+  width: 900px;
+}
